@@ -160,7 +160,7 @@ plt.show()
 ```
 # OUPUT
 ![](o1.png)
-![](02.png)
+![](o2.png)
 ![](o3.png)
 ![](o4.png)
 ![](o5.png)
